@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Jan 27 12:41:43 2025
+# Process ID: 37516
+# Current directory: C:/Users/owner/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent36156
+# Log file: C:/Users/owner/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/owner/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/owner/ECE532/_archive_proj5_update2.xpr/proj5/proj5.xpr
+update_compile_order -fileset sources_1
+launch_sdk -workspace C:/Users/owner/ECE532/_archive_proj5_update2.xpr/proj5/proj5.sdk -hwspec C:/Users/owner/ECE532/_archive_proj5_update2.xpr/proj5/proj5.sdk/lwip_server_wrapper.hdf
+open_bd_design {C:/Users/owner/ECE532/_archive_proj5_update2.xpr/proj5/proj5.srcs/sources_1/bd/lwip_server/lwip_server.bd}
+archive_project C:/Users/owner/ECE532/_archive_proj5_update2.xpr/proj5.xpr.zip -temp_dir C:/Users/owner/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-37516-LAPTOP-NJNF6T5J -force -include_local_ip_cache -include_config_settings
