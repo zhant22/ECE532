@@ -1,0 +1,17 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Time=0 | in_vld=0 | in_a=     0 | in_b=     0 | in_c=     0 | out_vld=x | out=          x
+Time=5000 | in_vld=0 | in_a=     0 | in_b=     0 | in_c=     0 | out_vld=0 | out=          x
+Time=10000 | in_vld=1 | in_a=     2 | in_b=     4 | in_c=     3 | out_vld=0 | out=          x
+Time=20000 | in_vld=1 | in_a=    -5 | in_b=    -3 | in_c=     2 | out_vld=0 | out=          x
+Time=30000 | in_vld=1 | in_a=     7 | in_b=     5 | in_c=    -2 | out_vld=0 | out=          x
+Time=35000 | in_vld=1 | in_a=     7 | in_b=     5 | in_c=    -2 | out_vld=1 | out=         20
+Time=40000 | in_vld=1 | in_a=   -10 | in_b=     6 | in_c=    -5 | out_vld=1 | out=         20
+Time=45000 | in_vld=1 | in_a=   -10 | in_b=     6 | in_c=    -5 | out_vld=1 | out=          9
+Time=50000 | in_vld=1 | in_a=    -7 | in_b=     4 | in_c=    -3 | out_vld=1 | out=          9
+Time=55000 | in_vld=1 | in_a=    -7 | in_b=     4 | in_c=    -3 | out_vld=1 | out=         25
+Time=60000 | in_vld=1 | in_a=     3 | in_b=     2 | in_c=     7 | out_vld=1 | out=         25
+Time=65000 | in_vld=1 | in_a=     3 | in_b=     2 | in_c=     7 | out_vld=1 | out=        -90
+Time=70000 | in_vld=0 | in_a=     3 | in_b=     2 | in_c=     7 | out_vld=1 | out=        -90
+Time=75000 | in_vld=0 | in_a=     3 | in_b=     2 | in_c=     7 | out_vld=1 | out=        -40
+Time=85000 | in_vld=0 | in_a=     3 | in_b=     2 | in_c=     7 | out_vld=0 | out=        -40

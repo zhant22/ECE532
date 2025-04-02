@@ -1,0 +1,38 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+display method:
+TEST 1 START (example in manual)
+value_in(binary)  = 00000001001000110100010101100111,
+value_out(binary) = 11111111111100110100010101100111,
+value_out(hex) = fff34567 
+Test 1 Passed
+END OF TEST 1
+//---------------------------------
+display method:
+TEST 2 START
+value_in(binary)  = 00000000000000000000000000000010,
+value_out(binary) = 11111111000000000000000000000010,
+value_out(hex) = ff000002 
+Test 2 Passed
+END OF TEST 2
+//---------------------------------
+monitor:
+n =  0, 
+value_in = 00000001, 
+value_out = 00000001
+n = 31, 
+value_in = 00000001, 
+value_out = ffffffff
+n =  0, 
+value_in = 00000000, 
+value_out = 00000000
+n = 31, 
+value_in = 00000000, 
+value_out = fffffffe
+n =  0, 
+value_in = ffffffff, 
+value_out = ffffffff
+n = 31, 
+value_in = ffffffff, 
+value_out = ffffffff
+$finish called at time : 80 ns : File "C:/Users/Administrator/Desktop/532proj1/part1/part1_tb.v" Line 62

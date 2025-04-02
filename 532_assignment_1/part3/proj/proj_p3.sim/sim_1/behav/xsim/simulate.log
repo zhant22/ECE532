@@ -1,0 +1,17 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+XilinxAXIVIP: Found at Path: part3_tb.DUT.design_1_i.axi_vip_1.inst
+Block Memory Generator module part3_tb.DUT.design_1_i.blk_mem_gen_0.inst.native_mem_mapped_module.blk_mem_gen_v8_4_2_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+---TEST1 begin ---
+n_value=12, value_in=0x01234567 
+Masked value from BRAM 
+BRAM value: 0x00000000
+---TEST2 begin ---
+n_value=8, value_in=0x00000001 
+Masked value from BRAM 
+BRAM value: 0xff000001
+---TEST2 begin ---
+n_value=31, value_in=0x00000001 
+Masked value from BRAM 
+BRAM value: 0xffffffff
+END OF TESTSExecuting Axi4 End Of Simulation checks

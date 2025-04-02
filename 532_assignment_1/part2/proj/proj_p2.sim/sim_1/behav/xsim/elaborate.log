@@ -1,0 +1,14 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: F:/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto b5ed93dfaec743c999355a3e006e3914 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_mask_axi532_behav xil_defaultlib.tb_mask_axi532 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mask532
+Compiling module xil_defaultlib.mask_axi532
+Compiling module xil_defaultlib.tb_mask_axi532
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_mask_axi532_behav

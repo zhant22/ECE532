@@ -1,0 +1,13 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+At time                    0, input =   0, output =        x
+At time                 5000, input =   0, output =        0
+At time               100000, input =   3, output =        0
+At time               105000, input =   3, output =       27
+At time               110000, input =  10, output =       27
+At time               115000, input =  10, output =     1000
+At time               120000, input =  50, output =     1000
+At time               125000, input =  50, output =   125000
+At time               130000, input = 255, output =   125000
+At time               135000, input = 255, output = 16581375
+$finish called at time : 240 ns : File "C:/Users/Administrator/Desktop/532_assign2/part3/proj/proj_p3.srcs/sim_1/new/test_3.v" Line 45

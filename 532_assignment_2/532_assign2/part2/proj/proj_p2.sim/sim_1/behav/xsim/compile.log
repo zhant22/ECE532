@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Desktop/532_assign2/part2/preadd532.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module preadd532
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Desktop/532_assign2/part2/proj/proj_p2.srcs/sim_1/new/test_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_preadd532

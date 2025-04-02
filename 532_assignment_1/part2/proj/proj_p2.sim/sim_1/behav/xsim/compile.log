@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Desktop/532proj1/part1/mask532.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mask532
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Desktop/532proj1/part2/mask_axi532.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mask_axi532
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Administrator/Desktop/532proj1/part2/proj/proj_p2.srcs/sim_1/new/tb_mask_axi532.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_mask_axi532
